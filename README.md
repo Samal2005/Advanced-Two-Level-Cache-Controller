@@ -64,3 +64,9 @@ The design was verified using simulation waveforms and FPGA implementation. Cach
 - Different replacement policies
 - Performance analysis module
 - Multi-level cache extensions
+
+## Results
+
+Simulation waveforms generated during verification are available in the `Simulation_Waveforms` directory.
+
+The project was also implemented on FPGA hardware to validate the cache controller functionality under real hardware conditions.
